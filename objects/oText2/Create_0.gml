@@ -1,0 +1,19 @@
+var vx = camera_get_view_x(view_camera[0]);
+var vy = camera_get_view_y(view_camera[0]);
+
+box_message = "blablablabla there, \n use # for new lines"
+box_www = 100 //width of your box
+box_hhh = 50 //height of your box
+box_bgcolor = c_white
+box_bgcolor_alpha = 0.5
+box_ftcolor = c_white
+box_ftcolor_alpha=0.85
+box_offsetx = 15
+box_offsety = -50
+box_x1 = x -150 + box_offsetx
+box_y1 = y - 110 + box_offsety
+box_x2 = box_x1 + box_www
+box_y2 = box_y1 + box_hhh
+box_range = 50
+box_message_x1 = box_x1 + 10
+box_message_y1 = box_y1 + 10
