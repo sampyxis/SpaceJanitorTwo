@@ -503,6 +503,14 @@
             }
         },
         {
+            "Key": "5619ef8d-bc0d-40c1-9690-7253ca33c7eb",
+            "Value": {
+                "id": "10538498-3645-4462-9b09-ce3ae44d43e1",
+                "resourcePath": "objects\\oTextBase\\oTextBase.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "59a0c7e6-bcb2-4909-9024-1444550f9ad9",
             "Value": {
                 "id": "a5abc182-3476-41e5-851a-c10e1a77de78",
