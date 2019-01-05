@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "0f386268-3fe6-4225-a084-04da01702c95",
+            "Value": {
+                "id": "e138c593-312b-4424-a4c1-5fba41e2f5a0",
+                "resourcePath": "views\\0f386268-3fe6-4225-a084-04da01702c95.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0f5e6cee-dd3f-4137-be2b-8c5f21cad640",
             "Value": {
                 "id": "c2892732-9eb4-4271-8688-63ccfaf15c69",
@@ -331,6 +339,14 @@
             "Value": {
                 "id": "989a20d4-1877-42a3-842e-6bdb8d792781",
                 "resourcePath": "sprites\\sPlayerJumpDShield\\sPlayerJumpDShield.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "34453c81-a63f-4f4f-a813-9db7a1bdc7d9",
+            "Value": {
+                "id": "1dcb444b-8062-4b55-9677-498d46153389",
+                "resourcePath": "sprites\\sprTextTrigger\\sprTextTrigger.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -731,6 +747,14 @@
             "Value": {
                 "id": "2d1f833a-6b20-475d-af58-3e2879627704",
                 "resourcePath": "objects\\oFxRoomGoTo\\oFxRoomGoTo.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "8bdfb73a-c459-4ef9-89ab-223f683e67a6",
+            "Value": {
+                "id": "7ec1e532-76ce-4c8e-bf65-8b2310de184b",
+                "resourcePath": "objects\\oTextTrigger\\oTextTrigger.yy",
                 "resourceType": "GMObject"
             }
         },

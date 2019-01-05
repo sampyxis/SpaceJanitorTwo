@@ -35,6 +35,7 @@ facing = image_xscale; // Change xscale in editor to adjust initial facing
 xscale = 1;
 yscale = 1;
 
+
 ///////////////////////////////////////////////////////////////////////////////
 
 attacking = false;
