@@ -5,4 +5,4 @@ paused = false;
 screenShot = -1;
 
 
-room_goto(rmBegining);
+//room_goto(rmBegining);
