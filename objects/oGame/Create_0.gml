@@ -7,4 +7,7 @@ paused = false;
 screenShot = -1;
 
 
-room_goto(rmBegining);
+//room_goto(rmBegining);
+room_goto(rmTestLevel);
+
+//window_set_fullscreen(true);
