@@ -20,3 +20,16 @@ if (instance_exists(oTouchCompatible)) {
     draw_sprite(sAtkButton, 0, __view_get( e__VW.XView, 0 ) + 640 - 64 - 96, __view_get( e__VW.YView, 0 ) + 280); 
 }
 
+//draw_set_halign(fa_center);
+
+if(paused){
+			var cam = view_camera[0];
+			var vx = camera_get_view_x(cam);
+			var vy = camera_get_view_y(cam);
+			var h  = camera_get_view_height(cam);
+			var w  = camera_get_view_width(cam);	
+    //draw_text(view_wview * 0.5, view_hview * 0.5, "Paused");
+	draw_sprite_ext(screenShot,0,vx,vy,1,1,0,c_white,1);
+	draw_text(view_xview[0] * 0.5, view_yview[0] * 0.5, "Paused");
+	//draw_text(view_wview * 0.5, view_hview * 0.5, "Paused");
+}

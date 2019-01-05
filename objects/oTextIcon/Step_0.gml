@@ -7,6 +7,7 @@ if( dis <= boxDistance)
 		{
 			alarm[0] = 50;
 			text = other.text;
+			note_case = other.note_case;
 		}
 	}
 }

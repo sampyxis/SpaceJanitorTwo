@@ -1,5 +1,5 @@
 // Input variables for debug room traversal
-var kRestart, kExit, kPrev, kNext, kCamera, kShake, kFull;
+var kRestart, kExit, kPrev, kNext, kCamera, kShake, kFull, kPause;
 
 kRestart = keyboard_check_pressed(ord("R"));
 kExit    = keyboard_check_pressed(vk_escape);
@@ -7,14 +7,48 @@ kPrev    = keyboard_check_pressed(vk_subtract);
 kNext    = keyboard_check_pressed(vk_add);
 kCamera  = keyboard_check_pressed(ord("C"));
 kFull    = keyboard_check_pressed(ord("F"));
-//kShake   = keyboard_check_pressed(ord("S"));
+kPause   = keyboard_check_pressed(vk_space);
+kShake   = keyboard_check_pressed(ord("S"));
+
+
+if(kPause){
+    paused = !paused;
+	if(!sprite_exists(screenShot)){
+		if(instance_exists(oCamera))
+		{
+			var cam = view_camera[0];
+			var vx = camera_get_view_x(cam);
+			var vy = camera_get_view_y(cam);
+			var h  = camera_get_view_height(cam);
+			var w  = camera_get_view_width(cam);
+			screenShot = sprite_create_from_surface(application_surface,vx,vy,w,h,0,0,0,0);  
+			screen_save("Screens\Screen_s1.png")	
+			//screen_save_part("Screens\Screen_s.png", vx, vy, 360, 480)
+		} else
+			screenShot = sprite_create_from_surface(application_surface,0,0,view_wport,view_hport,0,0,0,0);    
+    }
+}
+
+if(paused){
+    instance_deactivate_all(1);
+	instance_activate_object(oCamera);
+}else{
+	 if(sprite_exists(screenShot)){
+      sprite_delete(screenShot);
+    }
+    instance_activate_all();
+}
+
 
 // Temporary
-//if(kShake)
-//{
-//	with(oCamera)
-//		other.screen_shake_ = true;
-//}
+if(kShake)
+{
+	with(oCamera)
+	{
+		alarm[0] = 20;
+		screen_shake_ = true;
+	}
+}
 
 
 if (kCamera)

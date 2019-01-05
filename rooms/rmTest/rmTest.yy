@@ -175,7 +175,8 @@
         "50491fb5-cb0a-404d-a5fb-aa30351354b9",
         "749c0e86-19fd-4f70-9696-ad94e9235a1e",
         "11ce1362-a385-4d72-8db8-534900533f09",
-        "2a5c5b6e-a481-4584-80e5-6e075c95f0e3"
+        "2a5c5b6e-a481-4584-80e5-6e075c95f0e3",
+        "fc8a901d-87e3-4db2-977a-3ee366661de9"
     ],
     "IsDnD": false,
     "layers": [
@@ -193,7 +194,8 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
-{"name": "inst_22F38840","id": "2a5c5b6e-a481-4584-80e5-6e075c95f0e3","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_22F38840","objId": "b7b5679c-19a4-4381-8f02-8548ad24795d","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 32,"y": 0}
+{"name": "inst_22F38840","id": "2a5c5b6e-a481-4584-80e5-6e075c95f0e3","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_22F38840","objId": "b7b5679c-19a4-4381-8f02-8548ad24795d","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 32,"y": 0},
+{"name": "inst_410D6E65","id": "fc8a901d-87e3-4db2-977a-3ee366661de9","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_410D6E65","objId": "abd19dc6-48f2-40b0-acba-8a6a2f0ba88d","properties": [{"id": "6fada274-2413-436f-bf76-a040b60aa0a5","modelName": "GMOverriddenProperty","objectId": "abd19dc6-48f2-40b0-acba-8a6a2f0ba88d","propertyId": "2741bc9f-429c-4cd1-b432-8d9c4c4d564c","mvc": "1.0","value": "Go this way"}],"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 458,"y": 289}
             ],
             "layers": [
 
