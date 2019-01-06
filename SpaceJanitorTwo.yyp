@@ -631,6 +631,14 @@
             }
         },
         {
+            "Key": "46c1c813-dcba-412f-aacf-80c9488d1115",
+            "Value": {
+                "id": "6b1b516b-e64e-492f-8fea-453a520b88dc",
+                "resourcePath": "sprites\\spr_textboxbluecorner\\spr_textboxbluecorner.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4764f13e-918e-43ab-bc99-7f9b167e4df9",
             "Value": {
                 "id": "22a1ff10-6094-49ca-b1c4-18f240df8446",
