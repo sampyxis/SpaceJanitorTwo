@@ -1,5 +1,8 @@
 /// @description  Movement
 
+// Inherit oParEntity to get FC Dialog
+event_inherited();
+
 // Input //////////////////////////////////////////////////////////////////////
 
 var kLeft, kRight, kUp, kDown, kJump, kJumpRelease, kAction, kBlock, kRollL, kRollR, tempAccel, tempFric;
@@ -267,3 +270,6 @@ if (sprite_index == sPlayerJab && round(image_index) > 0) {
 
 /* */
 /*  */
+
+if(instance_exists(obj_textbox)) exit;
+

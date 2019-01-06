@@ -9,6 +9,9 @@ screenShot = -1;
 
 
 //room_goto(rmBegining);
-room_goto(rmTestLevel);
+//room_goto(rmTestLevel);
+room_goto(rmDialog);
 //window_set_fullscreen(true);
+
+
 
