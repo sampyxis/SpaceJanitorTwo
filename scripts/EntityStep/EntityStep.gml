@@ -32,6 +32,7 @@ repeat(abs(vx)) {
         
     if (!place_meeting(x + sign(vx), y, oParSolid))
         x += sign(vx);
+		
     else
         vx = 0;
 }
