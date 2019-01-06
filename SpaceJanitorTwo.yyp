@@ -1639,6 +1639,14 @@
             }
         },
         {
+            "Key": "e3290c02-a1e2-46f2-9160-93aff96fc3cb",
+            "Value": {
+                "id": "bf3fafd6-477f-4d28-b854-1a99cde9ef28",
+                "resourcePath": "sprites\\spr_scanlinemiddlebluetextbox\\spr_scanlinemiddlebluetextbox.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e66c26be-abc7-453c-8e74-6aa8039960b8",
             "Value": {
                 "id": "ed8fe83a-689e-48bf-9bef-f5fcb57dfdcc",
