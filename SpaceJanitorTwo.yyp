@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "07e3fde3-8844-4d60-90e0-633cdf174b90",
+            "Value": {
+                "id": "24c395ac-ea57-4cbc-99f1-74692d05659e",
+                "resourcePath": "sprites\\sFgWires1\\sFgWires1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0b37bdbe-f187-4017-a0d5-f31414da7fa2",
             "Value": {
                 "id": "416132f3-bfa6-4cfa-b284-e6d4f07050c2",
@@ -759,6 +767,22 @@
             }
         },
         {
+            "Key": "65ffa5f5-619e-4ba1-be59-54faf976327c",
+            "Value": {
+                "id": "80347c75-63d2-4e5c-8425-fe3f3734d9a7",
+                "resourcePath": "objects\\oParWires\\oParWires.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "661dbd7b-54f8-4f78-9102-9818c124b69e",
+            "Value": {
+                "id": "d6997b22-e0ec-491d-8ec6-3513141041e2",
+                "resourcePath": "sprites\\sFgWires2\\sFgWires2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "68058a02-2a0d-4a27-9819-3b68a8f5c7e5",
             "Value": {
                 "id": "17a7e6fc-b66a-4c7b-b380-fe569f185ab1",
@@ -836,6 +860,14 @@
                 "id": "243f6717-b343-47d7-ba55-a10359e69720",
                 "resourcePath": "views\\725cedd5-9358-47af-92a3-186a5453d9de.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "732e7455-2282-449b-9a30-819c376292f1",
+            "Value": {
+                "id": "4406f95c-4a3d-45dd-9607-6c532e663839",
+                "resourcePath": "sprites\\sFgWires1C\\sFgWires1C.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1103,6 +1135,14 @@
             }
         },
         {
+            "Key": "99a1b30f-6527-4171-b737-c1be2166d220",
+            "Value": {
+                "id": "f9a9515d-8d75-4c75-8d2c-de67237c2933",
+                "resourcePath": "objects\\oFGWires1\\oFGWires1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9acdd8aa-8f80-40b6-bdf2-ef07cef7b45f",
             "Value": {
                 "id": "354b8919-3b92-4a5e-b8e3-a11730b4cd64",
@@ -1195,6 +1235,14 @@
             "Value": {
                 "id": "b08dc5f1-9078-4553-90af-772eb11bbe5e",
                 "resourcePath": "objects\\oFxFadeIn\\oFxFadeIn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "abc256f4-7acf-49eb-8aaa-7398483d91cc",
+            "Value": {
+                "id": "8a12db67-70c9-475c-9a97-51ade94f703d",
+                "resourcePath": "objects\\oFGWires2\\oFGWires2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1356,6 +1404,14 @@
                 "id": "003ab95d-94a1-4302-9c39-5f02ac4a0ad9",
                 "resourcePath": "objects\\oCrateSmall\\oCrateSmall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "bf0871fd-0805-46e2-8ddd-9a8b2619520a",
+            "Value": {
+                "id": "4d497142-1fd6-440f-8281-f7d39389a1cb",
+                "resourcePath": "sprites\\sFgWires1B\\sFgWires1B.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
