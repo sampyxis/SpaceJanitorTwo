@@ -631,6 +631,14 @@
             }
         },
         {
+            "Key": "46c1c813-dcba-412f-aacf-80c9488d1115",
+            "Value": {
+                "id": "6b1b516b-e64e-492f-8fea-453a520b88dc",
+                "resourcePath": "sprites\\spr_textboxbluecorner\\spr_textboxbluecorner.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4764f13e-918e-43ab-bc99-7f9b167e4df9",
             "Value": {
                 "id": "22a1ff10-6094-49ca-b1c4-18f240df8446",
@@ -698,7 +706,7 @@
             "Key": "538e8b0a-95a4-4718-9db4-7a57c20239e9",
             "Value": {
                 "id": "fb573465-2e08-46c2-99b1-30f3d0cf4144",
-                "resourcePath": "sprites\\spr_textboxbluemiddlebottom\\spr_textboxbluemiddlebottom.yy",
+                "resourcePath": "sprites\\spr_textboxblueedge\\spr_textboxblueedge.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1700,6 +1708,14 @@
                 "id": "f74db34c-8bc0-4e06-aa4e-0e5fbf2a8ed1",
                 "resourcePath": "objects\\oPlayerAtkBox\\oPlayerAtkBox.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e3290c02-a1e2-46f2-9160-93aff96fc3cb",
+            "Value": {
+                "id": "bf3fafd6-477f-4d28-b854-1a99cde9ef28",
+                "resourcePath": "sprites\\spr_scanlinemiddlebluetextbox\\spr_scanlinemiddlebluetextbox.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

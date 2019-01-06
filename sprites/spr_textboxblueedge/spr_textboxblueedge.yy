@@ -2,7 +2,7 @@
     "id": "538e8b0a-95a4-4718-9db4-7a57c20239e9",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_textboxbluemiddlebottom",
+    "name": "spr_textboxblueedge",
     "For3D": false,
     "HTile": false,
     "VTile": false,
