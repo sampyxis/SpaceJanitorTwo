@@ -18,3 +18,15 @@ with (oParCrate) {
     }
 }
 
+with (oParWires) {
+	if(!cut) {
+		// Cut the wires
+		if(!(bbox_left > other.bboxright || bbox_right < other.bboxleft || bbox_top > other.bboxbottom || bbox_bottom < other.bboxtop)) {
+			WiresCut();
+            xskew = round(random_range(2, 4)) * choose(-1, 1);
+        }
+        
+        alarm[0] = 3;
+        cut = true;
+	}
+}

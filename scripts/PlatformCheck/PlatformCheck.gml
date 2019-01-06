@@ -45,6 +45,13 @@ if (vy > 0) {
             return true;
         }
     }
+	
+	// Don't colide with stairs if facing left
+	with (oSlope1R){
+		if (place_meeting(x, y -1, other) && !place_meeting(x, y, other)  && cLeft ) {
+			debugText("Hit stair", 0,0);
+		}
+	}
 }
 
 platformTarget = 0;
