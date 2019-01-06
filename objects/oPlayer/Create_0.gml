@@ -35,6 +35,7 @@ facing = image_xscale; // Change xscale in editor to adjust initial facing
 xscale = 1;
 yscale = 1;
 
+
 ///////////////////////////////////////////////////////////////////////////////
 
 attacking = false;
@@ -42,5 +43,19 @@ blocking  = false;
 
 //fallTime = 0;
 //fallMax  = 28;
+
+
+///////////////////////////////////////////////////////////////////////////////
+//--------Dialogue Stuff
+reset_dialogue_defaults();
+myPortrait			= spr_portrait_player;
+myVoice				= snd_voice2;
+myFont				= fnt_dialogue;
+myName				= "Green";
+
+myPortraitTalk		= spr_portrait_examplechar_mouth;
+myPortraitTalk_x	= 26;
+myPortraitTalk_y	= 44;
+myPortraitIdle		= spr_portrait_examplechar_idle;
 
 
