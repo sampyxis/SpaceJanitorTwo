@@ -7,7 +7,7 @@ kPrev    = keyboard_check_pressed(vk_subtract);
 kNext    = keyboard_check_pressed(vk_add);
 kCamera  = keyboard_check_pressed(ord("K"));
 kFull    = keyboard_check_pressed(ord("F"));
-kPause   = keyboard_check_pressed(vk_space);
+kPause   = keyboard_check_pressed(ord("P"));
 kShake   = keyboard_check_pressed(ord("S"));
 
 
