@@ -1231,6 +1231,14 @@
             }
         },
         {
+            "Key": "b34016b6-0a09-4ab5-95e3-d81deea7ee7b",
+            "Value": {
+                "id": "1c613ae7-44d6-47ae-9ddb-a16630c9b758",
+                "resourcePath": "objects\\oFCTextTrigger\\oFCTextTrigger.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b4f85e84-d00d-466e-a062-5b70ef5d691c",
             "Value": {
                 "id": "aeb6b66e-dd78-4c6a-a38b-656e1bb547bc",
