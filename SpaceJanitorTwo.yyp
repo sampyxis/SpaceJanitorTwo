@@ -2,7 +2,7 @@
     "id": "828bc5d3-d2c5-4c0c-90bd-46d1feef3c58",
     "modelName": "GMProject",
     "mvc": "1.0",
-    "IsDnDProject": true,
+    "IsDnDProject": false,
     "configs": [
         
     ],
@@ -91,6 +91,14 @@
             "Value": {
                 "id": "06a986da-6cf3-4aa6-be17-e052e08f183a",
                 "resourcePath": "sprites\\spr_portraitframe\\spr_portraitframe.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0eb0027f-963a-4873-a063-bfbeba256d50",
+            "Value": {
+                "id": "8a36bddc-7da7-45e1-bc37-ff1d6122b543",
+                "resourcePath": "sprites\\sprBackgroundStreet\\sprBackgroundStreet.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -492,6 +500,14 @@
                 "id": "d4418506-3bcd-4338-9798-3f6a655c69cc",
                 "resourcePath": "objects\\oParCrate\\oParCrate.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "3ad23253-07ac-44a3-828c-27af0e87c782",
+            "Value": {
+                "id": "53b83ccc-ee75-4c75-9ea0-a35d8f50061f",
+                "resourcePath": "rooms\\rmTowerLevel1\\rmTowerLevel1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -1335,6 +1351,14 @@
             }
         },
         {
+            "Key": "b09f1a00-d4e6-4fe0-8ed2-b4bdc1f8e7b8",
+            "Value": {
+                "id": "1dad0f49-74d0-432b-971d-842017e0dbd2",
+                "resourcePath": "sprites\\sprRoomTrigger\\sprRoomTrigger.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b1d0dbf8-e4da-4e6d-be46-497dd3109bd6",
             "Value": {
                 "id": "49ac25f1-2365-4750-9265-d5eb9233524c",
@@ -1687,6 +1711,14 @@
             }
         },
         {
+            "Key": "dd59bce0-6eb3-40f9-a457-719092b722ad",
+            "Value": {
+                "id": "9ef0710f-20d5-488a-9a2b-22400ef2b92a",
+                "resourcePath": "objects\\oRoomTrigger\\oRoomTrigger.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "ddc2728f-1c70-49f6-9df2-212c3e9bf342",
             "Value": {
                 "id": "1050376f-1548-4272-9b69-91e25fad4fb5",
@@ -1708,6 +1740,14 @@
                 "id": "f74db34c-8bc0-4e06-aa4e-0e5fbf2a8ed1",
                 "resourcePath": "objects\\oPlayerAtkBox\\oPlayerAtkBox.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "e23596e9-10e0-4415-9f97-455c880e26f1",
+            "Value": {
+                "id": "61477f17-9b8e-4da5-aba2-8cb31d07033a",
+                "resourcePath": "views\\e23596e9-10e0-4415-9f97-455c880e26f1.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
